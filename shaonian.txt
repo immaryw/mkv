@@ -1,0 +1,9 @@
+gold
+**********
+1，2：
+start 48s, 
+cut end 20s
+
+3 - 25:
+start 32s, 
+cut end 20s
